@@ -1,0 +1,82 @@
+h1{
+    margin: 0px;
+    color: white; 
+    text-align: center;
+}
+p{
+    margin: 0;
+    color: white; 
+    text-align: center;
+}
+.container{    
+	background: yellow;
+    height: 600px;
+    width: 900px;
+    margin: auto;
+}
+.header{
+	width: 100%;
+    height: 80px;
+    background: red;
+    overflow: hidden;
+}
+.logo{    
+	width: 25%;
+    height: 100%;
+    background: green;
+    float: left;
+}
+.menu{
+	width: 75%;
+    height: 100%;
+    background: #0000FF;
+    float: left;
+}
+.banner{
+	height: 200px;
+    width: 100%;
+    background: red;
+}
+.content-part{
+	width: 100%;
+    height: 220px;
+    background: bisque;
+}
+.part-one{
+	width: 50%;
+    height: 100%;
+    background: gray;
+    float: left;
+}
+.up{
+	width: 100%;
+    height: 50%;
+    background: green;
+}
+.down{
+	width: 100%;
+    height: 50%;
+    background: #AEFF2F;
+}
+.part-two{
+	width: 50%;
+    height: 100%;
+    background: #FF8C01;
+    float: left;
+}
+.footer{
+	width: 100%;
+    height: 100px;
+    background: purple;
+}
+.about-us{
+	width: 100%;
+    height: 50%;
+    background: #DD133C;
+}
+.contact{    
+	width: 100%;
+    height: 50%;
+    background: #2D4053;
+
+}
